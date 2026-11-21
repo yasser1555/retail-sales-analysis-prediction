@@ -1,0 +1,8 @@
+# Libraries imported by the original notebook and Streamlit application.
+# Exact package versions used for the archived academic run were not recorded.
+pandas
+numpy
+matplotlib
+scikit-learn
+joblib
+streamlit
